@@ -48,7 +48,7 @@ Focus areas:
 
 ## 📫 Contact
 - GitHub: [Astar777baby](https://github.com/Astar777baby)
-- Email: `your.email@example.com`
+- Email: `liang.cheng@openr1.site`
 - Location: Independent Researcher, Global
 
 ---
