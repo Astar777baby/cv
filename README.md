@@ -1,6 +1,6 @@
 # A-Transformer/Astar777baby | Independent AI Researcher
 Name: Liang Cheng
-🌍 **Independent Deep Learning & Computer Vision Researcher**
+🌍 **Independent Deep Learning & Computer Vision Researcher & LLM & VLM**
 Focusing on large-scale model optimization, Transformer architectures, and multimodal understanding.
 
 ---
